@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - jenkinsxgitorg/jx3-gke-gsm
-      target_url: http://lighthouse-jx./merge/status
+      target_url: http://lighthouse-jx.34.67.12.99.nip.io/merge/status
 kind: ConfigMap
 metadata:
   creationTimestamp: null
